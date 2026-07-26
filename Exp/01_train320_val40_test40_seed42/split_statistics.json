@@ -1,0 +1,18 @@
+{
+  "run_name": "01_train320_val40_test40_seed42",
+  "ratio": "8:1:1",
+  "split_seed": 42,
+  "training_seed": 42,
+  "counts": {
+    "train": 320,
+    "val": 40,
+    "test": 40
+  },
+  "group_counts": {
+    "train": 320,
+    "val": 40,
+    "test": 40
+  },
+  "group_overlap_count": 0,
+  "image_overlap_count": 0
+}

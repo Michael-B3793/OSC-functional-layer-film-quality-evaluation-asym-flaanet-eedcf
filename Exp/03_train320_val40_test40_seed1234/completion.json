@@ -1,0 +1,24 @@
+{
+  "completed_at_utc": "2026-07-24T07:48:07.202074+00:00",
+  "total_training_wall_time_seconds": 8424.703760417,
+  "best_validation_total_loss": 0.22253146767616272,
+  "final_metrics": {
+    "Average EEDCF": 57.857919244706295,
+    "Average ASDI": 0.729190723218431,
+    "Average MMCSO": 1.1088285527314106,
+    "Average Precision": 0.9854464285714286,
+    "Traditional Precision": 0.8732350111635696,
+    "Average Accuracy": 0.9598425594376929,
+    "Average TPR": 0.8779001845284642,
+    "Average SPC": 0.9391092343634778,
+    "Average PPV": 0.8732350111635696,
+    "Average NPV": 0.9571220239306026,
+    "Average FPR": 0.06089076563652229,
+    "Average FDR": 0.12676498883643034,
+    "Average FNR": 0.12209981547153581,
+    "Average Prevalence": 0.11692693262924383,
+    "Average F1-Score": 0.8617632883600983,
+    "Average mAP@0.5": 0.8358972880983749,
+    "IoU": 0.8715872077746669
+  }
+}

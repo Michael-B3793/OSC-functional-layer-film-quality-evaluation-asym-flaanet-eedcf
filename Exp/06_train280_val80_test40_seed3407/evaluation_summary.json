@@ -1,0 +1,26 @@
+{
+  "final_evaluation_split": "test",
+  "image_count": 40,
+  "metric_protocol": "Original project adaptive-threshold table metrics plus original foreground-weighted IoU.",
+  "summary": {
+    "Average EEDCF": 57.6270059828221,
+    "Average ASDI": 0.73126994387019,
+    "Average MMCSO": 1.103631946481983,
+    "Average Precision": 0.9766794342568336,
+    "Traditional Precision": 0.8612810928876753,
+    "Average Accuracy": 0.9581204638069059,
+    "Average TPR": 0.8695666614862461,
+    "Average SPC": 0.9379245145274542,
+    "Average PPV": 0.8612810928876753,
+    "Average NPV": 0.939001865409891,
+    "Average FPR": 0.062075485472545766,
+    "Average FDR": 0.13871890711232476,
+    "Average FNR": 0.13043333851375388,
+    "Average Prevalence": 0.1157690731095679,
+    "Average F1-Score": 0.849636541613938,
+    "Average mAP@0.5": 0.8186148077108182,
+    "IoU": 0.8623844840016505
+  },
+  "overall_score": 0.26288861855234635,
+  "overall_score_protocol": "Original paper rank_generator min-max score, normalized only among runs with the same ratio and final evaluation split."
+}
